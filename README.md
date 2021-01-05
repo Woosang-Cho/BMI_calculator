@@ -1,5 +1,5 @@
 # BMI_calculator
-- BMI calculator made of Python3.
+- BMI calculator made by Python3.
 
 ## 0. BMI(Body Mass Index)
 - 인간의 비만도를 나타내는 지수로, 신장과 체중으로 계산됩니다. 
