@@ -4,7 +4,7 @@
 ## 0. BMI(Body Mass Index)
 - 인간의 비만도를 나타내는 지수로, 신장과 체중으로 계산됩니다. 
 
-- 비만의 판정의 올바른 지표는 체중이 아니라 체지방량이므로 몸의 지방량을 직접 측정하는 것이 이상적이나 이것은 기술적인 어려움이 있기 때문에 표준체중, 신체질량지수 등 체지방량을 간접적으로 측정하는 방법이 일반적입니다.
+- 비만 판정의 올바른 지표는 체중이 아니라 체지방량이므로 몸의 지방량을 직접 측정하는 것이 이상적이나 이것은 기술적인 어려움이 있기 때문에 표준체중, 신체질량지수 등 체지방량을 간접적으로 측정하는 방법이 일반적입니다.
 
 ![Graph of body mass index showing the various divisions.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Body_mass_index_chart.svg/1024px-Body_mass_index_chart.svg.png)
 
