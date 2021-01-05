@@ -8,6 +8,8 @@
 
 ![Graph of body mass index showing the various divisions.](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Body_mass_index_chart.svg/1024px-Body_mass_index_chart.svg.png)
 
+- 정상적인 bmi 수치는 bmi 18.5 ~ 25 입니다.
+
 ## 1. 제작 정보
 - Python3 를 이용하여 만들어졌습니다. 
 
