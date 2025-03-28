@@ -14,4 +14,4 @@ weight, height_cm = func_BMI()
 
 BMI = weight / (height_cm * height_cm)
 
-print(BMI)
+print(f"BMI: {BMI:.2f}")
