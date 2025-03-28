@@ -14,7 +14,7 @@ weight, height_cm = func_BMI()
 
 BMI = weight / (height_cm * height_cm)
 
-print(f"BMI: {BMI:.2f} \n")
+print(f"\nBMI: {BMI:.2f}")
 
 if BMI < 18.5:
     print('저체중')
