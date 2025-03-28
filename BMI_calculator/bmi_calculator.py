@@ -27,4 +27,4 @@ elif 25 <= BMI < 30:
 elif 30 <= BMI < 35:
     print('2단계 비만')
 else:
-    print('단계 비만')
+    print('3단계 비만')
